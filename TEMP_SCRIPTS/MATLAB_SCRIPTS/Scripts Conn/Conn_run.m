@@ -1,0 +1,6 @@
+run('STEP_1_connectivity_PLV_Desikan_centroids.m')
+run('STEP_1_connectivity_AEC_Desikan_centroids.m')
+run('STEP_1_connectivity_AEC_Destrieux_centroids.m')
+run('STEP_1_connectivity_PLV_Destrieux_centroids.m')
+run('STEP_1_connectivity_AEC_Destrieux.m')
+run('STEP_1_connectivity_PLV_Destrieux.m')
